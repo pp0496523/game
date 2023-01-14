@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Examples", "UniRx.Examples.csproj", "{D4DA64F5-F79C-E805-AE27-885EAE6DD194}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{CE20F621-DC6A-49AA-E1E2-F65815174C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{18A8E89E-379E-4293-4DDB-8ABE2AD7E782}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{D4DA64F5-F79C-E805-AE27-885EAE6DD194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DA64F5-F79C-E805-AE27-885EAE6DD194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DA64F5-F79C-E805-AE27-885EAE6DD194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE20F621-DC6A-49AA-E1E2-F65815174C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE20F621-DC6A-49AA-E1E2-F65815174C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE20F621-DC6A-49AA-E1E2-F65815174C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE20F621-DC6A-49AA-E1E2-F65815174C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A8E89E-379E-4293-4DDB-8ABE2AD7E782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A8E89E-379E-4293-4DDB-8ABE2AD7E782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A8E89E-379E-4293-4DDB-8ABE2AD7E782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A8E89E-379E-4293-4DDB-8ABE2AD7E782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
