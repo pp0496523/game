@@ -1,0 +1,33 @@
+{
+    "name": "TitleInput",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "ddbd50f0-6c83-4f86-ab3b-36a65c13fcd7",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Value",
+                    "id": "ea442694-29e4-4d36-b2bc-6117a96e534f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ac020279-9dd8-4e9a-a132-27ae279b937c",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
