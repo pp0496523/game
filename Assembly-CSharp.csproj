@@ -57,13 +57,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/Model/TitleInput.cs" />
-    <Compile Include="Assets/Scripts/Presenter/InGamePresenter.cs" />
-    <Compile Include="Assets/Scripts/View/UserInput/PlayerInput.cs" />
-    <Compile Include="Assets/Scripts/Presenter/TitlePresenter.cs" />
+    <Compile Include="Assets/Scripts/Presenter/Scene/InGameScenePresenter.cs" />
+    <Compile Include="Assets/Scripts/View/UserInput/PlayerInputView.cs" />
+    <Compile Include="Assets/Scripts/Model/Player.cs" />
+    <Compile Include="Assets/Scripts/Presenter/Scene/TitleScenePresenter.cs" />
     <Compile Include="Assets/Scripts/Model/Scene.cs" />
     <Compile Include="Assets/Scripts/View/StartButton.cs" />
+    <Compile Include="Assets/Scripts/Presenter/TitleInputPresenter.cs" />
     <Compile Include="Assets/Scripts/View/Scene.cs" />
+    <Compile Include="Assets/Scripts/Presenter/ScenePresenter.cs" />
+    <Compile Include="Assets/Scripts/View/PlayerView.cs" />
     <Compile Include="Assets/Scripts/View/UserInput/TitleInput.cs" />
+    <Compile Include="Assets/Scripts/Model/PlayerInput.cs" />
     <Compile Include="Assets/Scripts/Model/StartButton.cs" />
   </ItemGroup>
   <ItemGroup>

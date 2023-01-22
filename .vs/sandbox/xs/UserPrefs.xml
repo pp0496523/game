@@ -1,33 +1,14 @@
 ﻿<Properties StartupConfiguration="{C0090B42-A80B-DF2D-74FB-044B3669A501}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Presenter/InGamePresenter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Presenter/Scene/InGameScenePresenter.cs">
     <Files>
-      <File FileName="Assets/Scripts/Presenter/TitlePresenter.cs" Line="10" Column="16" />
-      <File FileName="Assets/Scripts/View/UserInput/InGameInput.cs" Line="18" Column="35" />
-      <File FileName="Assets/Scripts/Presenter/InGamePresenter.cs" Line="68" Column="1" />
+      <File FileName="Assets/Scripts/Model/Player.cs" Line="6" Column="16" />
+      <File FileName="Assets/Scripts/Presenter/Scene/InGameScenePresenter.cs" Line="39" Column="25" />
+      <File FileName="Assets/Scripts/View/PlayerView.cs" Line="22" Column="65" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="sandbox" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Model" expanded="True" />
-                <Node name="Presenter" expanded="True">
-                  <Node name="InGamePresenter.cs" selected="True" />
-                </Node>
-                <Node name="View" expanded="True">
-                  <Node name="UserInput" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93e9a3e2-5b39-4600-ae05-dcacb48298f8" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="870c8ea3-6e71-48f1-8491-a20ec70b0519" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
