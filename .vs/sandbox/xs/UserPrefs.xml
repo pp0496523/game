@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/View/PlayerView.cs">
     <Files>
       <File FileName="Assets/Scripts/Model/Player.cs" Line="6" Column="16" />
-      <File FileName="Assets/Scripts/Presenter/Scene/InGameScenePresenter.cs" Line="39" Column="25" />
-      <File FileName="Assets/Scripts/View/PlayerView.cs" Line="22" Column="65" />
+      <File FileName="Assets/Scripts/Presenter/Scene/InGameScenePresenter.cs" />
+      <File FileName="Assets/Scripts/View/PlayerView.cs" Line="13" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="870c8ea3-6e71-48f1-8491-a20ec70b0519" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9bc98c88-8038-426e-a8e4-c25c6ed44d9d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
