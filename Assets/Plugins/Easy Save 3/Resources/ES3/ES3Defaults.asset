@@ -33,6 +33,7 @@ MonoBehaviour:
     - UniRx
     - Assembly-CSharp
     - UniRx.Examples
+    - Cinemachine
     - PsdPlugin
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
